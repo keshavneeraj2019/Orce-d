@@ -1,0 +1,6 @@
+stregnth: 11
+agility: 19
+intelligence: 20
+Success
+
+Process finished with exit code 0
